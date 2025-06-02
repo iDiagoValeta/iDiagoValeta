@@ -1,49 +1,51 @@
-# 👋 ¡Hola! Soy Nacho  
+# 👋 Hi! I'm Nacho  
 
-🎓 Estudiante de Ingeniería Informática (especialidad en Computación) en la UPV.  
-🔍 Apasionado por la Inteligencia Artificial, los Sistemas Multi-Agente y la Optimización.  
-💻 Construyo sistemas que resuelven problemas reales con lógica, eficiencia y sentido crítico.  
-
----
-
-## 🚀 Sobre mí
-
-- 🤖 Me especializo en desarrollar soluciones basadas en IA, sistemas distribuidos y optimización.
-- 🧠 He trabajado con agentes inteligentes en simulaciones de captura de bandera y sistemas eHealth.
-- 📈 Experiencia en diseño de sistemas de recomendación, planificación multiperiodo y criptografía.
-- 🔬 Soy una persona analítica, directa y orientada a resultados. Valoro la eficiencia tanto en el código como en la vida.
-- 🧩 Me gusta resolver problemas complejos, entender los patrones detrás del caos y desafiar mis propias ideas.
+🎓 Computer Engineering student (major in Computer Science) at UPV.  
+🔍 Passionate about Artificial Intelligence, Multi-Agent Systems and Optimisation.  
+💻 I build systems that solve real problems with logic, efficiency and critical sense.  
 
 ---
 
-## 📊 Tecnologías y herramientas en IA
+## 🚀 About me
 
-### 🔤 Lenguajes de programación  
-Python · JavaScript · C · Java · SQL
-
-### 📚 Librerías y frameworks de IA / ML  
-- **Machine Learning:** scikit-learn · XGBoost · LightGBM  
-- **Deep Learning:** TensorFlow · PyTorch 
-- **NLP / Embeddings:** spaCy · NLTK · gensim · Hugging Face Transformers  
-- **Optimización:** LINGO · PuLP · SciPy.optimize · OR-Tools  
-- **Visualización:** Matplotlib · Seaborn · Plotly  
+- 🤖 I specialize in developing solutions based on AI, distributed systems and optimization.
+- 🧠 I have worked with intelligent agents in flag capture simulations and eHealth systems.
+- 📈 Experience in recommender system design, multi-period planning and cryptography.
+- 🔬 I am an analytical, straightforward and results-oriented person. I value efficiency both in code and in life.
+- 🧩 I like to solve complex problems, understand the patterns behind chaos and challenge my own ideas.
 
 ---
 
-## 🧠 Filosofía
+## 📊 Technologies and tools in AI.
 
-> “El fin justifica los medios. Pero asegúrate de que el fin valga la pena.”
+### 🔤 Programming languages.  
+Python - JavaScript - C - Java - SQL
 
-Creo en un enfoque pragmático pero con principios. Defiendo una tecnología centrada en las personas, con responsabilidad y sin dogmas. Me importa que el código funcione, pero más aún que tenga sentido en el mundo real.
+### 📚 AI / ML Libraries and Frameworks  
+- Machine Learning:** scikit-learn - XGBoost - LightGBM  
+- Deep Learning:** TensorFlow - PyTorch 
+- NLP / Embeddings:** spaCy - NLTK - gensim - Hugging Face Transformers  
+- Optimisation:** LINGO - PuLP - SciPy.optimize - OR-Tools  
+- Visualization:** Matplotlib - Seaborn - Plotly  
 
 ---
 
-## 📫 Contacto
+## 🧠 Philosophy
+
+> ‘The end justifies the means. But make sure the end is worth it.’
+
+I believe in a pragmatic but principled approach. I advocate people-centred technology, with responsibility and without dogma. I care that the code works, but more so that it makes sense in the real world.
+
+---
+
+## 📫 Contact
 
 - 📧 nadiva1243@gmail.com  
 - 🌐 https://www.linkedin.com/in/ignacio-diago-valeta-09022004595959595959/  
-- 📂 Mi portfolio lo puedes encontrar en los propios repositorios subidos a github
+- 📂 My portfolio can be found in my own repositories uploaded to github
 
 ---
 
-¡Gracias por visitar mi perfil! Si te interesa colaborar en algo desafiante o impactante, **escríbeme**.
+Thanks for visiting my profile! If you're interested in collaborating on something challenging or impactful, **write to me**.
+
+Translated with DeepL.com (free version)
