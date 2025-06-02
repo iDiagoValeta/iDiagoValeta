@@ -47,5 +47,3 @@ I believe in a pragmatic but principled approach. I advocate people-centred tech
 ---
 
 Thanks for visiting my profile! If you're interested in collaborating on something challenging or impactful, **write to me**.
-
-Translated with DeepL.com (free version)
