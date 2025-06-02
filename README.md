@@ -22,11 +22,11 @@
 Python - JavaScript - C - Java - SQL
 
 ### 📚 AI / ML Libraries and Frameworks  
-- Machine Learning:** scikit-learn - XGBoost - LightGBM  
-- Deep Learning:** TensorFlow - PyTorch 
-- NLP / Embeddings:** spaCy - NLTK - gensim - Hugging Face Transformers  
-- Optimisation:** LINGO - PuLP - SciPy.optimize - OR-Tools  
-- Visualization:** Matplotlib - Seaborn - Plotly  
+- **Machine Learning:** scikit-learn - XGBoost - LightGBM  
+- **Deep Learning:** TensorFlow - PyTorch 
+- **NLP / Embeddings:** spaCy - NLTK - gensim - Hugging Face Transformers  
+- **Optimisation:** LINGO - PuLP - SciPy.optimize - OR-Tools  
+- **Visualization:** Matplotlib - Seaborn - Plotly  
 
 ---
 
