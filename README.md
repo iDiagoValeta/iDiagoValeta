@@ -95,9 +95,9 @@
 
 Here are some of the official certificates I’ve earned from edX:
 
-- 📜 [Introduction to Python Programming](https://courses.edx.org/certificates/4c6101f8b20348a39ce814dfa8009117) – by edX
-- 🐧 [Linux Basics: The Command Line Interface](https://courses.edx.org/certificates/37fcce9e7fae41e3977e11462300c83a) – by edX
-- 📊 [Machine Learning and Data Science Fundamentals](https://courses.edx.org/certificates/e5e7a1456e2549ee98daf20ca0250a06) – by edX
+- 📜 [Python](https://courses.edx.org/certificates/4c6101f8b20348a39ce814dfa8009117) – by edX
+- 🐧 [Linux](https://courses.edx.org/certificates/37fcce9e7fae41e3977e11462300c83a) – by edX
+- 📊 [Machine Learning and Data Science](https://courses.edx.org/certificates/e5e7a1456e2549ee98daf20ca0250a06) – by edX
 
 ---
 
