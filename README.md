@@ -25,12 +25,11 @@ Estudiante de **Ingeniería Informática** en la **UPV**, con un profundo inter�
 
 ## 🔧 Tecnologías y Herramientas
 
-Aquí están algunas de las tecnologías con las que trabajo habitualmente.
-
 <details>
   <summary><b>🔤 Lenguajes de Programación</b></summary>
   <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -41,10 +40,11 @@ Aquí están algunas de las tecnologías con las que trabajo habitualmente.
 <details>
   <summary><b>📚 Frameworks y Librerías de IA/ML</b></summary>
   <br>
-  - <b>Machine Learning:</b> scikit-learn - XGBoost - LightGBM
+  - <b>Machine Learning (Python):</b> scikit-learn - XGBoost - LightGBM
   - <b>Deep Learning:</b> TensorFlow - PyTorch
-  - <b>NLP / Embeddings:</b> spaCy - NLTK - gensim - Hugging Face Transformers
-  - <b>Optimización:</b> LINGO - PuLP - SciPy.optimize - OR-Tools
+  - <b>Análisis de Datos y ML (R):</b> Tidyverse - ggplot2 - caret
+  - <b>NLP / Embeddings:</b> spaCy - NLTK - Hugging Face Transformers
+  - <b>Optimización:</b> LINGO - SciPy.optimize - OR-Tools
   - <b>Visualización:</b> Matplotlib - Seaborn - Plotly
 </details>
 
@@ -61,7 +61,7 @@ Aquí están algunas de las tecnologías con las que trabajo habitualmente.
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iDiagoValeta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
@@ -82,4 +82,4 @@ Estoy buscando activamente oportunidades para aplicar mis habilidades en proyect
 <p align="center">
   <a href="mailto:nadiva1243@gmail.com">📧 Envíame un correo</a> | 
   <a href="https://www.linkedin.com/in/ignacio-diago-valeta-09022004595959595959/">💼 Conectemos en LinkedIn</a>
-</p>****
+</p>
