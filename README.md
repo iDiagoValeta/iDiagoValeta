@@ -18,12 +18,24 @@ Estudiante de **Ingeniería Informática** en la **UPV**, con un profundo inter�
 - 🤖 Especializado en el desarrollo de soluciones basadas en **IA, sistemas distribuidos y optimización**.
 - 🧠 He trabajado con **agentes inteligentes** en simulaciones de captura de bandera y en sistemas de **eHealth**.
 - 📈 Experiencia en diseño de **sistemas de recomendación**, planificación multi-periodo y **criptografía**.
-- 🔬 Soy una persona analítica, directa y orientada a resultados. Valoro la eficiencia tanto en el código como en la vida.
+- 🔬 Soy una persona analítica, directo y orientado a resultados. Valoro la eficiencia tanto en el código como en la vida.
 - 🧩 Me apasiona resolver problemas complejos, entender los patrones detrás del caos y desafiar constantemente mis propias ideas.
 
 ---
 
 ## 🔧 Tecnologías y Herramientas
+
+<details>
+  <summary><b>🔤 Lenguajes de Programación</b></summary>
+  <p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  </p>
+</details>
 
 <details>
   <summary><b>📚 Frameworks y Librerías de IA/ML</b></summary>
@@ -83,8 +95,8 @@ Estudiante de **Ingeniería Informática** en la **UPV**, con un profundo inter�
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iDiagoValeta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDiagoValeta&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 ---
