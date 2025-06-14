@@ -62,7 +62,6 @@
   
   <b>NLP / Embeddings:</b>
   <p align="left">
-    <a href="https://spacy.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/shreyashankar/spacy-streamlit@main/logo.svg" alt="spaCy" width="100" height="40"/> </a>
     <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NLTK-306998?style=for-the-badge" alt="NLTK" /></a>
     <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="40"/></a>
   </p>
