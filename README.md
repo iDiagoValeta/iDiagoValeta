@@ -70,14 +70,12 @@
   <b>Optimization:</b>
   <p align="left">
     <a href="https://www.lindo.com/index.php/products/lingo-and-optimization-modeling" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LINGO-FF7D00?style=for-the-badge" alt="LINGO" /></a>
-    <a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" alt="scipy" width="40" height="40"/></a>
     <a href="https://developers.google.com/optimization" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OR--Tools-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="OR-Tools" /></a>
   </p>
 
   <b>Visualization:</b>
   <p align="left">
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Seaborn_logo_2023.svg" alt="seaborn" width="40" height="40"/></a>
     <a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/></a>
   </p>
 </details>
