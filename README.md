@@ -117,8 +117,3 @@ I am actively looking for opportunities to apply my skills to challenging and im
   <a href="mailto:nadiva1243@gmail.com">📧 Send me an Email</a> | 
   <a href="https://www.linkedin.com/in/ignacio-diago-valeta-1234567891011121314/">💼 Let's connect on LinkedIn</a>
 </p>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ignacio-diago-valeta-1234567891011121314" data-version="v1">
-    <a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/ignacio-diago-valeta-1234567891011121314/en?trk=profile-badge">Ignacio Diago Valeta</a>
-</div>
