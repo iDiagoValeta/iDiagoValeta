@@ -1,14 +1,5 @@
 # 👋 Hi! I'm Ignacio Diago
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ignacio-diago-valeta-1234567891011121314/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:nadiva1243@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</div>
-
 **Computer Engineering** student at **UPV**, with a deep interest in **Artificial Intelligence, Multi-Agent Systems, and Optimization**. My goal is to build systems that solve real-world problems with logic, efficiency, and a critical mindset.
 
 ---
