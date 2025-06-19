@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Ignacio Diago
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ignacio-diago-valeta-09022004595959595959/">
+  <a href="https://www.linkedin.com/in/ignacio-diago-valeta-1234567891011121314/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:nadiva1243@gmail.com">
@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 - 🤖 Specializing in developing solutions based on **AI, distributed systems, and optimization**.
-- 🧠 I have worked with **intelligent agents** in capture-the-flag simulations and task automation, as well as with neural networks for image classification and LLMs.
+- 🧠 I have worked with **intelligent agents** in capture-the-flag simulations and task automation, as well as with **neural networks** for image classification and **Large Language Models (LLMs)**.
 - 📈 Solid mathematical understanding of the fundamentals of artificial intelligence and data mining.
 - 🔬 I am an analytical, straightforward, and results-oriented person. I value efficiency both in code and in life.
 - 🧩 Passionate about solving complex problems, understanding the patterns behind chaos, and constantly challenging my own ideas. 
@@ -115,5 +115,10 @@ I am actively looking for opportunities to apply my skills to challenging and im
 
 <p align="center">
   <a href="mailto:nadiva1243@gmail.com">📧 Send me an Email</a> | 
-  <a href="https://www.linkedin.com/in/ignacio-diago-valeta-09022004595959595959/">💼 Let's connect on LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ignacio-diago-valeta-1234567891011121314/">💼 Let's connect on LinkedIn</a>
 </p>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ignacio-diago-valeta-1234567891011121314" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/ignacio-diago-valeta-1234567891011121314/en?trk=profile-badge">Ignacio Diago Valeta</a>
+</div>
