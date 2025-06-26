@@ -73,8 +73,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a> 
   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a> 
-  <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQLAlchemy-EF2D5E?style=for-the-badge" alt="SQLAlchemy" /></a> 
-  <a href="https://www.psycopg.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/psycopg2-336791?style=for-the-badge" alt="psycopg2" /></a> 
   <a href="https://www.mongodb.com/docs/drivers/pymongo/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyMongo-47A248?style=for-the-badge" alt="PyMongo" /></a> 
 </p>
 </details>
