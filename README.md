@@ -7,7 +7,6 @@
 ## 🚀 About Me
 
 - 🤖 Specializing in developing solutions based on **AI, distributed systems, and optimization**.
-- 🧠 I have worked with **intelligent agents** in capture-the-flag simulations and task automation, as well as with **neural networks** for image classification and **Large Language Models (LLMs)**.
 - 📈 Solid mathematical understanding of the fundamentals of artificial intelligence and data mining.
 - 🔬 I am an analytical, straightforward, and results-oriented person. I value efficiency both in code and in life.
 - 🧩 Passionate about solving complex problems, understanding the patterns behind chaos, and constantly challenging my own ideas. 
