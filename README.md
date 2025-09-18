@@ -14,8 +14,11 @@ A Computer Engineer focused on building intelligent and efficient systems to sol
 ## 🔧 Tech Stack & Expertise
 
 -   🤖 **Artificial Intelligence:** Strong mathematical and practical foundation in Machine Learning (Scikit-learn, XGBoost), Deep Learning (TensorFlow, PyTorch), and NLP (Hugging Face, NLTK).
+  
 -   ⚙️ **Optimization:** Proficient in modeling and solving optimization problems using tools like Google OR-Tools and LINGO.
+  
 -   🌐 **Languages & Development:** High proficiency in Python and R, with experience in Java, C, and JavaScript for building robust systems.
+  
 -   📊 **Data:** Skilled in handling SQL (MySQL, SQLite) and NoSQL (MongoDB) databases, along with data analysis and visualization libraries (Tidyverse, Matplotlib, Plotly).
 
 <details>
