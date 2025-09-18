@@ -11,7 +11,7 @@ A Computer Engineer focused on building intelligent and efficient systems to sol
 
 ---
 
-## 🔧 Tech Stack & Expertise
+## Tech Stack & Expertise
 
 -   🤖 **Artificial Intelligence:** Strong mathematical and practical foundation in Machine Learning (Scikit-learn, XGBoost), Deep Learning (TensorFlow, PyTorch), and NLP (Hugging Face, NLTK).
   
