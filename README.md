@@ -23,6 +23,7 @@ A Computer Engineer focused on building intelligent and efficient systems to sol
 
 <details>
   <summary><b>CLICK HERE FOR VIEW FULL TECHNOLOGY LIST</b></summary>
+
   
   <p align="left">
   <b> Programming Languages:</b><br>
