@@ -45,9 +45,8 @@ A Computer Engineer focused on building intelligent and efficient systems to sol
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-## 📈 Actividad y Estadísticas
+## 📈 Actividad
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iDiagoValeta&show_icons=true&locale=es&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub de Ignacio" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDiagoValeta&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados por Ignacio" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=iDiagoValeta&theme=tokyonight&hide_border=true&custom_title=Gráfico%20de%20Commits%20de%20Ignacio&activity_type=commit" alt="Gráfico de Commits de Ignacio" />
 </p>
