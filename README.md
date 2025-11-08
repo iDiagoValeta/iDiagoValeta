@@ -10,14 +10,14 @@ A Computer Engineer focused on building intelligent and efficient systems to sol
 
 ---
 
-## 🎯 Áreas de Especialización
+## Areas of Expertise
 
-* 🤖 **Artificial Intelligence:** Strong mathematical and practical foundation in Machine Learning (Scikit-learn, XGBoost), Deep Learning (TensorFlow, PyTorch), and NLP (Hugging Face, NLTK).
-* ⚙️ **Optimization:** Proficient in modeling and solving optimization problems using tools like Google OR-Tools and LINGO.
-* 🌐 **Languages & Development:** High proficiency in Python and R, with experience in Java, C, and JavaScript for building robust systems.
-* 📊 **Data:** Skilled in handling SQL (MySQL, SQLite) and NoSQL (MongoDB) databases, along with data analysis and visualization libraries (Tidyverse, Matplotlib, Plotly).
+*  **Artificial Intelligence:** Strong mathematical and practical foundation in Machine Learning (Scikit-learn, XGBoost), Deep Learning (TensorFlow, PyTorch), and NLP (Hugging Face, NLTK).
+*  **Optimization:** Proficient in modeling and solving optimization problems using tools like Google OR-Tools and LINGO.
+*  **Languages & Development:** High proficiency in Python and R, with experience in Java, C, and JavaScript for building robust systems.
+*  **Data:** Skilled in handling SQL (MySQL, SQLite) and NoSQL (MongoDB) databases, along with data analysis and visualization libraries (Tidyverse, Matplotlib, Plotly).
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="left">
   <b>Lenguajes:</b><br>
@@ -45,8 +45,11 @@ A Computer Engineer focused on building intelligent and efficient systems to sol
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-## 📈 Actividad
+## Actividad y Estadísticas
+
+> **Nota Importante:** Para que las siguientes imágenes funcionen, reemplaza `[REEMPLAZA_CON_TU_USUARIO]` con tu nombre de usuario de GitHub en ambas URLs.
 
 <p align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=iDiagoValeta&theme=tokyonight&hide_border=true&custom_title=Gráfico%20de%20Commits%20de%20Ignacio&activity_type=commit" alt="Gráfico de Commits de Ignacio" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iDiagoValeta&show_icons=true&locale=es&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub de Ignacio" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDiagoValeta&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados por Ignacio" />
 </p>
