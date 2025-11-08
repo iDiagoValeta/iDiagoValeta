@@ -1,5 +1,3 @@
-### ¡Hola, soy Ignacio! 👋
-
 # Ignacio Diago
 ### Computer Engineer | AI · Multi-Agent Systems · Optimization
 
