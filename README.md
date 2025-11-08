@@ -49,9 +49,7 @@ A Computer Engineer focused on building intelligent and efficient systems to sol
 
 ## 📈 Actividad y Estadísticas
 
-> **Nota Importante:** Para que las siguientes imágenes funcionen, reemplaza `[REEMPLAZA_CON_TU_USUARIO]` con tu nombre de usuario de GitHub en ambas URLs.
-
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[REEMPLAZA_CON_TU_USUARIO]&show_icons=true&locale=es&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub de Ignacio" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[REEMPLAZA_CON_TU_USUARIO]&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados por Ignacio" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iDiagoValeta&show_icons=true&locale=es&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub de Ignacio" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDiagoValeta&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados por Ignacio" />
 </p>
