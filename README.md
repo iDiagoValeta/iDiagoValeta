@@ -37,12 +37,3 @@ A Computer Engineer focused on building intelligent and efficient systems to sol
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
-
----
-
-## Activity & Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iDiagoValeta&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Ignacio's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDiagoValeta&layout=compact&theme=tokyonight&hide_border=true" alt="Ignacio's Top Languages" />
-</p>
