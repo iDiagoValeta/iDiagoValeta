@@ -3,6 +3,7 @@
 ### AI Engineer
 
 Fuck it, I'm just a learner. I don't need a description.
+
 I was born to create — creativity is my greatest asset.
 
 ---
