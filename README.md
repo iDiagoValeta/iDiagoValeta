@@ -2,9 +2,7 @@
 
 ### AI Engineer
 
-I'm just a learner. I don't need a description.
-
-I was born to create — creativity is my greatest asset.
+I'm seeing the future and it's looking very bright
 
 ---
 
