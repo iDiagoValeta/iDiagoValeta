@@ -23,12 +23,12 @@ I'm seeing the future and it's looking very bright
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=iDiagoValeta&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&rank_icon=github&bg_color=00000000&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff"
+      srcset="https://github-readme-stats.vercel.app/api?username=iDiagoValeta&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&bg_color=00000000&text_color=8b949e&icon_color=58a6ff"
     />
     <img
       height="165"
       alt="GitHub stats"
-      src="https://github-readme-stats.vercel.app/api?username=iDiagoValeta&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&rank_icon=github&bg_color=00000000&text_color=59636e&icon_color=0969da&ring_color=0969da"
+      src="https://github-readme-stats.vercel.app/api?username=iDiagoValeta&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&bg_color=00000000&text_color=59636e&icon_color=0969da"
     />
   </picture>
   <picture>
