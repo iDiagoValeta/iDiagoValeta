@@ -2,7 +2,9 @@
 
 ### AI Engineer
 
-I'm seeing the future and it's looking very bright
+<p align="center">
+  I'm seeing the future and it's looking very bright.
+</p>
 
 <p align="center">
   <img src="assets/sunrise.gif" alt="Animated ASCII sunrise over the sea" width="100%" />
