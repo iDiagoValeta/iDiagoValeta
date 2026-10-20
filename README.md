@@ -4,6 +4,10 @@
 
 I'm seeing the future and it's looking very bright
 
+<p align="center">
+  <img src="assets/sunrise.gif" alt="Animated ASCII sunrise over the sea" width="100%" />
+</p>
+
 ---
 
 <p align="center">
